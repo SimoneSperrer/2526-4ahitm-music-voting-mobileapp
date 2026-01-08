@@ -1,2 +1,3 @@
 # 2526-4ahitm-music-voting-mobileapp
-test
+
+Das ist ein Swift Projekt.
